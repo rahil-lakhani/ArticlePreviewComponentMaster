@@ -196,6 +196,13 @@ h2 {
 
 
 @media (min-width:960px) {
+    
+    /****** Default & General Styling ******/
+    
+    body {
+        min-height: 100vh;
+        min-width: 100vh;
+    }
 
     /*** Wrapper ***/
 
